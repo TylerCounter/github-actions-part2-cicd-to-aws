@@ -54,7 +54,7 @@ jobs:
       needs: [my_ci_pipeline]
        
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    # Steps represent a sequence of tasks that will be executed as part of the
       steps:
         
         - name: Configure AWS Credentials
